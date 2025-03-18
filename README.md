@@ -4,7 +4,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        Frontend branch
+        Frontend repo
       </h1>
     </summary>
   </ul>
